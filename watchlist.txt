@@ -1,0 +1,16 @@
+# NSE symbols without .NS suffix; edit this file to change the scan universe
+RELIANCE
+HDFCBANK
+ICICIBANK
+INFY
+TCS
+SBIN
+LT
+AXISBANK
+BHARTIARTL
+ITC
+TATAMOTORS
+MARUTI
+SUNPHARMA
+BAJFINANCE
+TITAN
